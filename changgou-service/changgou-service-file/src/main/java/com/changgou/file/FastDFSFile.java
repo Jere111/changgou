@@ -2,10 +2,6 @@ package com.changgou.file;
 
 import java.io.Serializable;
 
-/**
- * @author kangnlee
- * @date 2020-07-14
- */
 public class FastDFSFile implements Serializable {
 
     //文件名字
